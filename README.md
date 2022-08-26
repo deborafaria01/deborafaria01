@@ -6,9 +6,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborafaria01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h4 align="center"> 
-  I’m currently learning:
-</h4>
+## I’m currently learning:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
