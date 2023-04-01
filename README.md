@@ -1,4 +1,4 @@
-# Hi there, I'm Debora Faria 👋✨
+# Hi there, I'm Debora 👋✨
 
 <div align="center">
   <a href="https://github.com/deborafaria01">
