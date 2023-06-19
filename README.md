@@ -2,8 +2,8 @@
 
 ### I’m currently learning:
 
-#### 🚀 Cybersecurity
-#### ⚔️ BlueTeam - Firewall, WAF and SIEM
+#### 🚀 Cybersecurity - MITRE ATT&CK
+#### ⚔️ BlueTeam - Monitoring rules, detection on TCP and UDP protocols in firewall logs.
 
 ##
 
