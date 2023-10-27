@@ -2,7 +2,7 @@
 
 ### I’m currently learning:
 
-#### ⚔️ Certified in Cybersecurity (CC) from ISC2
+#### ⚔️ Cybersecurity Certification (CC) by ISC2
 #### 🚀 Natural language processing (NLP)
 
 ##
