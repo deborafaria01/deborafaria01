@@ -3,7 +3,7 @@
 ### I’m currently learning:
 
 #### ⚔️ Cybersecurity Certification by ISC2
-#### 🚀 Linux Fundamentals by TryHackMe
+#### 🚀 Splunk Core Certified User
 
 ##
 
