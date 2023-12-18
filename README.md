@@ -2,10 +2,12 @@
 
 ### I’m currently learning:
 
-#### ⚔️ Cybersecurity Certification by ISC2
-#### 🚀 Splunk Core Certified User
+#### 🔐 Cybersecurity Certification by ISC2
+#### ⚔️ Splunk Core Certified User
 
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/bitWitch.png)](https://tryhackme.com/p/bitWitch)
+🚀 [TryHackMe Profile](https://tryhackme.com/p/bitWitch)
+
+
 
 
 
