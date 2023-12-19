@@ -5,7 +5,6 @@
 #### 🔐 Cybersecurity Certification by ISC2
 #### ⚔️ Splunk Core Certified User
 
-🚀 [TryHackMe Profile](https://tryhackme.com/p/bitWitch)
 
 
 
