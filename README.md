@@ -3,7 +3,8 @@
 ### I’m currently learning:
 
 #### 🔐 Ethical Hacking Essentials - EHE 
-#### ⚔️ Splunk Core Certified User
+#### ⚔️ Network Defense Essentials - NDE
+
 
 
 
