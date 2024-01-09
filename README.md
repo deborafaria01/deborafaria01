@@ -2,7 +2,7 @@
 
 ### I’m currently learning:
 
-#### 🔐 Cybersecurity Certification by ISC2
+#### 🔐 Ethical Hacking Essentials - EHE 
 #### ⚔️ Splunk Core Certified User
 
 
