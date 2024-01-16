@@ -1,6 +1,6 @@
 # Hi there, I'm Debora 👋✨
 
-### I’m currently learning:
+### I'm currently preparing for the following certificates:
 
 #### 🔐 Ethical Hacking Essentials - EHE 
 #### ⚔️ Network Defense Essentials - NDE
