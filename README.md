@@ -2,8 +2,10 @@
 
 ### I'm currently preparing for the following certificates:
 
+#### 🌐 Splunk Core Certified User - SPLK-1001
 #### 🔐 Ethical Hacking Essentials - EHE 
 #### ⚔️ Network Defense Essentials - NDE
+
 
 
 
